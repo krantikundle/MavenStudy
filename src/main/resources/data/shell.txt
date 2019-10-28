@@ -1,0 +1,5 @@
+1. Write a shell script that allows a user to enter any existing file name. The program should then copy file to /tmp directory.
+2.Write a shell script that allows a user to enter directory name. The program should then create directory name in /tmp directory.
+3.Write a shell script that allows a user to enter three file names. The program should then copy all files to USB pen.
+
+https://www.bogotobogo.com/DevOps/DevOps-Sys-Admin-Interview-Questions-Scripting.php

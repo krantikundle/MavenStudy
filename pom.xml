@@ -4,7 +4,7 @@
   <artifactId>MavenStudy</artifactId>
   <version>1.0</version>
   <properties>
-  <testngversion>7.0.0</testngversion>
+  <testngversion>7.7.0</testngversion>
   <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding> 
   </properties>
   <dependencies>
